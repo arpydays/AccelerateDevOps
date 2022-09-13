@@ -39,5 +39,6 @@ line 2
    ![Commit to branch](img/commit-to-branch.png)
 
    Navigate back to the pull request and note that you can review the file with all changes (`Files changed`) or individual `Commits`. You can comment in both views.
+   another line
 
    ![Changes](img/changes.png)
