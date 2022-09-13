@@ -6,15 +6,15 @@ In Chapter 3 - _Teamwork and Collaborative Development_ we learn how to collabo
 
 2. Delete the following line:
 
-   __Delete this line__
 
 3. Add one or two lines here with a random text:
 
-   __...__
+line 1
+line 2
 
 4. Modify the following line by removing the letters that do not belong:
 
-   __---> The ccow jumpedd ovverr thhe mooon__
+   __---> The cow jumped over the moon__
 
 5. Commit your changes into a new _branch_:
 
@@ -39,5 +39,6 @@ In Chapter 3 - _Teamwork and Collaborative Development_ we learn how to collabo
    ![Commit to branch](img/commit-to-branch.png)
 
    Navigate back to the pull request and note that you can review the file with all changes (`Files changed`) or individual `Commits`. You can comment in both views.
+   another line
 
    ![Changes](img/changes.png)
