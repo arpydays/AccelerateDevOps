@@ -1,7 +1,7 @@
 #!/bin/bash
 
-appName=xyz-demo-shop
-location=westeurope
+appName=arpydays-demo-shop
+location=australia
 
 # In case you want to name the resource group different than the app:
 rgname=$appName
